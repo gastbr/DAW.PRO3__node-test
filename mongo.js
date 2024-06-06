@@ -1,4 +1,4 @@
-// getting-started.js (copiado de docs de mongoose)
+// getting-started.js (copiado de docs de mongoose — el ORM para MongoDB)
 const mongoose = require('mongoose');
 
 main().catch(err => console.log(err));
